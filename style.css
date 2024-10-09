@@ -1,0 +1,47 @@
+* {
+    text-align: center;
+    background-color: darksalmon;
+    
+}
+h1 {
+    background-color: floralwhite;
+    font-style:italic;
+    
+
+
+}
+h2 {
+    font-style: italic;
+
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+
+#red {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+#blue {
+    color:blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+#orange {
+    color:orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+#green {
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+#yellow {
+    color:yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    
+}
